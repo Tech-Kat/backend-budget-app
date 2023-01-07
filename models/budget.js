@@ -2,31 +2,29 @@ module.exports = [
   {
     item_name: "income",
     amount: 5000,
-    date: {
-      month: "may",
-      day: 12,
-    },
+    date: "03 / 30 / 2022",
     to: "chase",
     category: "income",
   },
   {
-    item_name: "income",
+    item_name: "miscellenious",
     amount: 3000,
-    date: {
-      month: "jan",
-      day: 12,
-    },
-    to: "wells fargo",
+    date: "04 / 17 / 2022",
+    to: "",
     category: "income",
   },
   {
     item_name: "savings",
     amount: 10000,
-    date: {
-      month: "april",
-      day: 12,
-    },
+    date: "04 / 11 / 2022",
     to: "bank of america",
     category: "savings",
+  },
+  {
+    item_name: "Zales",
+    amount: -600,
+    date: "04 / 12 / 2022",
+    to: "Zales",
+    category: "Jewelry",
   },
 ];
